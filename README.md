@@ -34,7 +34,9 @@ Or copy this directory to `~/.claude/skills/create-pr-with-evidence` or `~/.agen
 
 ## Credits
 
-Extracted from the `create-pr` skill of [moeru-ai/airi](https://github.com/moeru-ai/airi).
+This skill comes from the [`create-pr` skill](https://github.com/moeru-ai/airi/tree/main/.agents/skills/create-pr) of [Project AIRI](https://github.com/moeru-ai/airi). [@nekomeowww](https://github.com/nekomeowww) wrote the original version, and [@luoling8192](https://github.com/luoling8192) extended it.
+
+This repository removes the AIRI-specific parts, such as the Vishot screenshot workflow, so that the skill works in any repository.
 
 ## License
 
